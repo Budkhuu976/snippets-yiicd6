@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Budkhuu976.github.io/snippets-yiicd6/sitemap.xml
